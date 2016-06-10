@@ -1,4 +1,4 @@
-#Create a method that returns the sum of two integers
+# Create a method that returns the sum of two integers
 
 def initialize(num1, num2)
   @num1 = num1
